@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.etr</groupId>
+  <artifactId>maven-library-github-test</artifactId>
+  <versioning>
+    <release>'</release>
+    <versions>
+      <version>'</version>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130214213556</lastUpdated>
+  </versioning>
+</metadata>
